@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# ==================== Aashish's Aztec Node Manager ====================
-# Created by: Aashish 💻
+# ==================== Theuvkhan Aztec Node Manager ====================
+# Created by: Theuvkhan 💻
 # ======================================================================
 
 # Color Codes
