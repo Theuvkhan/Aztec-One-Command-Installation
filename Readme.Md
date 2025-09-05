@@ -66,23 +66,10 @@ Or create your own RPC 👉 [Private RPC Guide](https://github.com/HustleAirdrop
 
 ---
 
-## 🏆 Check Your Node Status & Uptime
-
-- Go to [@AztecChecker_bot](https://t.me/AztecChecker_bot) on Telegram.
-- Send `/add` and your **Peer ID** to track rewards.
-
----
-
-## ❓ FAQ
-
-For frequently asked questions, [click here](FAQ.md).
-
----
 
 ## 💬 Need Help?
 
-- **Support:** [@Legend_Aashish](https://t.me/Legend_Aashish)
-- **Guides, Videos & Updates:** [@Hustle_Airdrops](https://t.me/Hustle_Airdrops)
+- **Support:** [@theuvkhan](https://t.me/theuvkhan)
 
 > 🚀 **Stay ahead — join the channel now!**
 
